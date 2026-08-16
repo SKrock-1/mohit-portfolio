@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://mohitrajput.online/</loc>
+    <lastmod>2026-08-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    
+    <!-- Google Image Search Indexing -->
+    <image:image>
+      <image:loc>https://mohitrajput.online/optimized_images/DSC03237.jpg</image:loc>
+      <image:title>Mohit Rajput - High Fashion Signature Portrait</image:title>
+      <image:caption>Editorial fashion model portrait by Mohit Rajput</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mohitrajput.online/optimized_images/DSC03260.jpg</image:loc>
+      <image:title>Mohit Rajput - Noir Couture Tailored Suit</image:title>
+      <image:caption>Noir couture fashion modeling in tailored black suit</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mohitrajput.online/optimized_images/DSC03010.jpg</image:loc>
+      <image:title>Mohit Rajput - Raw Studio Minimalist Stance</image:title>
+      <image:caption>Studio minimalist modeling in white crewneck and denim</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mohitrajput.online/optimized_images/studio_DSC02975.jpg</image:loc>
+      <image:title>Mohit Rajput - Dynamic Streetwear and Movement</image:title>
+      <image:caption>Contemporary streetwear lookbook campaign</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mohitrajput.online/optimized_images/DSC03245.jpg</image:loc>
+      <image:title>Mohit Rajput - Noir Editorial Seated Pose</image:title>
+      <image:caption>High fashion blazer modeling</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mohitrajput.online/optimized_images/studio_DSC02962.jpg</image:loc>
+      <image:title>Mohit Rajput - Studio Essentials Clean Stance</image:title>
+      <image:caption>Clean studio modeling</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mohitrajput.online/optimized_images/DSC03265.jpg</image:loc>
+      <image:title>Mohit Rajput - High Fashion Side Lighting</image:title>
+      <image:caption>Moody editorial fashion photography</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mohitrajput.online/optimized_images/IMG_1511.jpg</image:loc>
+      <image:title>Mohit Rajput - Streetwear Sunglasses Look</image:title>
+      <image:caption>Street fashion relaxed chair pose</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mohitrajput.online/optimized_images/noir_DSC03275.jpg</image:loc>
+      <image:title>Mohit Rajput - Commercial Editorial Blazer Portrait</image:title>
+      <image:caption>Charismatic commercial modeling portrait</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mohitrajput.online/optimized_images/studio_DSC02948.jpg</image:loc>
+      <image:title>Mohit Rajput - Official Comp Card Full Stance</image:title>
+      <image:caption>Agency standard full stance comp card photograph</image:caption>
+    </image:image>
+  </url>
+</urlset>
